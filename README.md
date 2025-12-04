@@ -29,7 +29,6 @@ RegisterNumber: 25017715
 
 <img width="1216" height="619" alt="Screenshot 2025-12-04 221825" src="https://github.com/user-attachments/assets/9c018df4-c37e-4df6-b699-dc5c33bf392d" />
 
-
 ## Output:
 
 <img width="1220" height="585" alt="Screenshot 2025-12-04 221843" src="https://github.com/user-attachments/assets/6103fe90-6fe0-4de6-86c3-42eae4f4bcf8" />
